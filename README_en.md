@@ -722,12 +722,10 @@ Issue -> Branch -> Commit -> Push -> Pull Request
 
 ## 4. About Me
 
-Yoloong is the maintainer identity used for this repository.
+### License
 
-This section intentionally avoids real personal information and only keeps a public-facing description suitable for an open-source repository:
+This project is licensed under the Apache License 2.0. See LICENSE for details.
 
-- focused on Git collaboration standards, workflow standards, and engineering-style project presentation
-- aims to turn scattered Git usage experience into reusable and publishable documentation
-- this repository can serve as a README template, team workflow template, course project template, or open-source contribution template
+### Maintainer
 
-All examples in this repository use `XXX` as placeholders and do not expose real names, student IDs, emails, repository names, or organization names.
+Yoloong (倪家诚) focuses on HarmonyOS / ArkUI application development, AI capability integration, full-stack web engineering, and agent-oriented system building. His work spans the full implementation path of a software project, including product-facing UI development, backend services, API integration, deployment, and iterative delivery. Current projects mainly center on smart healthcare, intelligent interaction, productivity tools, and scenario-driven software systems. More work and ongoing projects can be found at yoloong.com and harmonycare.cn.
